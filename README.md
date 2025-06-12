@@ -46,6 +46,9 @@ This format ensures that key points are easy to review, while the full context i
 - Build a simple interface using Gradio or Streamlit to allow users to upload files and generate notes interactively.
 - Add keyword extraction, action item detection, or follow-up task identification using additional NLP pipelines.
 
+## Read the Full Blog
+If you are looking for a detailed explanation, please refer to this blog: [How to Build an AI Assistant from Scratch](https://www.projectpro.io/article/how-to-build-an-ai-assistant/1132).
+
 ## Credits
 
 - Hugging Face Transformers Library  
